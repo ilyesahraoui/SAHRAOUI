@@ -991,7 +991,7 @@ reverse_shell()
     ]
     subprocess.run(commed)
     print("[blue][+][/blue][green]The file has been created[/green]")
-
+    print("ilyes")
 
 
 
